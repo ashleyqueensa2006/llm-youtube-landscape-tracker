@@ -7,10 +7,6 @@ This project fulfills the assignment brief by:
 - Fetching new videos automatically
 - Using AI to analyze content (beyond titles)
 - Maintaining a live, categorized table
-- Hosting everything publicly
-
-## Live Demo
-→ https://yourusername.github.io/llm-youtube-landscape-tracker/
 
 ## Deliverables Completed
 - [x] Automated data collection
