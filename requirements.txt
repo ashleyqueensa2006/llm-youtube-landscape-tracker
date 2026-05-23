@@ -1,0 +1,6 @@
+feedparser
+yt-dlp
+pandas
+requests
+python-dotenv
+openai
